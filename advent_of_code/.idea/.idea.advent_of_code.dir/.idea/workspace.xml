@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbb1f06f-00b7-4822-a392-fa0029989383" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aoc_1_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3_input.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/aoc_1_input.txt" />
+        <option value="$PROJECT_DIR$/src/day1/day1a.rs" />
+        <option value="$PROJECT_DIR$/src/day2_input.txt" />
+        <option value="$PROJECT_DIR$/src/day1.rs" />
+        <option value="$PROJECT_DIR$/Cargo.toml" />
+        <option value="$PROJECT_DIR$/src/day3_input.txt" />
+        <option value="$PROJECT_DIR$/src/day2.rs" />
+        <option value="$PROJECT_DIR$/src/main.rs" />
+        <option value="$PROJECT_DIR$/src/day3.rs" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="9328y9ze" />
+  </component>
+  <component name="ProjectId" id="1lWs3Nbl6sx3lvRa3Du95z7WZ8g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run advent_of_code" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run --package advent_of_code --bin advent_of_code" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run advent_of_code" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbb1f06f-00b7-4822-a392-fa0029989383" name="Default Changelist" comment="" />
+      <created>1607723984934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607723984934</updated>
+      <workItem from="1607723989165" duration="11770000" />
+      <workItem from="1608487995850" duration="6066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="307" key="GridCell.Tab.0.bottom" timestamp="1608496862288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608496862288" />
+    <state width="2005" height="436" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1607972824047" />
+    <state width="1493" height="307" key="GridCell.Tab.0.center" timestamp="1608496862287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608496862287" />
+    <state width="2005" height="436" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1607972824047" />
+    <state width="1493" height="307" key="GridCell.Tab.0.left" timestamp="1608496862287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608496862287" />
+    <state width="2005" height="436" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1607972824047" />
+    <state width="1493" height="307" key="GridCell.Tab.0.right" timestamp="1608496862288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608496862288" />
+    <state width="2005" height="436" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1607972824047" />
+    <state x="533" y="201" key="SettingsEditor" timestamp="1607725248802">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="533" y="201" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1607725248802" />
+    <state x="93" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607796999107">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="93" y="93" width="1862" height="926" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1607796999107" />
+    <state x="578" y="286" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607796605563">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="578" y="286" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112@0.0.2048.1112" timestamp="1607796605563" />
+    <state width="300" height="128" key="javadoc.popup.new" timestamp="1608496677517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="300" height="128" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1608496677517" />
+    <state width="300" height="172" key="javadoc.popup.new/0.0.2048.1112@0.0.2048.1112" timestamp="1607797712805" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1607796912018">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1607796912018" />
+  </component>
+</project>
